@@ -3,13 +3,13 @@ For your kids, let's make a portable interactive jackolantern with upcycling ski
 
 # SW upcycling
 * Reuse simulated candle logic for jackolantern light.
-- https://learn.adafruit.com/circuit-playground-jack-o-lantern/halloween?view=all
+ - https://learn.adafruit.com/circuit-playground-jack-o-lantern/halloween?view=all
 
 * Reuse celebrateSong() when candy is inserted into portable plastic jackolantern.
-- https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/Birthday_Candles/Birthday_Candles.ino
+ - https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/Birthday_Candles/Birthday_Candles.ino
 
 * Reuse tap logic to detect candy insertion.
-- https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/accelTap/accelTap.ino
+ - https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/accelTap/accelTap.ino
 
 # HW upcycling
 * Reuse a portable plastic jackolantern bought last year
@@ -29,7 +29,7 @@ For your kids, let's make a portable interactive jackolantern with upcycling ski
 
 1. Upload combined upcycling-jackolantern.ino to Adafruit Circuit Playground
 
-![Upload jackolantern ino](/media/upload_jackolantern_ino.jpg)
+![Upload jackolantern ino](/media/upload_jackolantern_ino.png)
 
 2. Connect a 6V battery pack with Adafruit Circuit Playground
 
