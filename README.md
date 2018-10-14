@@ -6,7 +6,7 @@ For your kids, let's make a portable interactive jackolantern with upcycling ski
 - https://learn.adafruit.com/circuit-playground-jack-o-lantern/halloween?view=all
 
 ## Reuse celebrateSong() when candy is inserted into portable plastic jackolantern.
-- https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/Birthday_Candles/Birthday_Candles.ino
+- https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/Microphone_Demos/Birthday_Candles/Birthday_Candles.ino
 
 ## Reuse tap logic to detect candy insertion.
 - https://github.com/adafruit/Adafruit_CircuitPlayground/blob/master/examples/accelTap/accelTap.ino
